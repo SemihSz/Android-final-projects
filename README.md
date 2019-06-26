@@ -1,7 +1,7 @@
 
 
 
-# Android-Final-Project
+# Android-Final-Project-Firebase-Google Maps
 
 This app included, Firebase Login and Registration System, Midterm Calculation, Traveller  Book using with Google Maps, Currency converter with API key and JSONObject
 
