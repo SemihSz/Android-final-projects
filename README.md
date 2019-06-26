@@ -1,9 +1,9 @@
 
 
 
-# Android-final-projects
+# Android-Final-Project
 
-This app included,
+This app included, Firebase Login and Registration System, Midterm Calculation, Travaller Book using with Google Maps, Currency converter with API key and JSONObject
 
 Firebase - Google Maps - JSON  - SQLite - More basic android informations 
 
