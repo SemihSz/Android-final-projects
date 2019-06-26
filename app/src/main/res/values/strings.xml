@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SemihProjects</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="signin">Sign In</string>
+    <string name="signup">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main_starting">MainStartingActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="sign_out">Do you want to sign out from the Application?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="sign_out_toast">Now you are going to sign out from app</string>
+    <string name="stay_in_app">Stay in app...</string>
+    <string name="lesson_scores_calculator">Lesson Scores Calculator</string>
+    <string name="alert">You have to fill all plain text fields</string>
+    <string name="ok">OK</string>
+</resources>
